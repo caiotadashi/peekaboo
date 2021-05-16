@@ -1,0 +1,25 @@
+body {
+    background: url(/img/bg.png);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.emoji {
+    font-size: 12rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+.hide {
+    display: none;
+}
+
+.boo {
+    display: none;
+}
+
+.active {
+    display: contents;
+}
