@@ -1,5 +1,5 @@
 body {
-    background: url(../img/bg.png);
+    background: url(/peekaboo/img/bg.png);
     display: flex;
     justify-content: center;
     align-items: center;
